@@ -1,2 +1,2 @@
 # Portflio
- Projeto de um Portfólio usando JavaScript
+ Projeto simples de um Portfólio usando JavaScript
