@@ -1,2 +1,2 @@
 # Portflio
- Um simples Portfólio utilizando JavaScript
+ Um simples Portfólio utilizando ReactJs
